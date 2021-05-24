@@ -1,0 +1,9 @@
+name=input("enter name")
+if('name=="CSEC" or name=="CSEB"'):
+   print("Valid Student")
+else:
+       print("Invalid Student")
+output---
+enter nameCSEC
+Valid Student
+>>> 
