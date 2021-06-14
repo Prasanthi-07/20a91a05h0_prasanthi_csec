@@ -1,0 +1,7 @@
+w=float(input("enter weight in kilograms:"))
+pounds=2.2*(w)
+print("%0.2f kgs is equal to %0.2f pounds"%(w,pounds))
+output----
+enter weight in kilograms:613
+613.00 kgs is equal to 1348.60 pounds
+
