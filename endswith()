@@ -1,0 +1,11 @@
+t="hard work"
+res=t.endswith("h")
+print(res)
+res1=t.endswith("k",0,10)
+print(res1)
+res2=t.endswith("K")
+print(res2)
+output()---
+False
+True
+False
